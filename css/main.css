@@ -1,0 +1,9 @@
+@font-face
+{
+    font-family: tanha;
+    src: url("../fonts/tanha-font-v0.9/Farsi-Digits-Without-Latin/Tanha-FD-WOL.eot"),url("../fonts/tanha-font-v0.9/Farsi-Digits-Without-Latin/Tanha-FD-WOL.ttf"),url("../fonts/tanha-font-v0.9/Farsi-Digits-Without-Latin/Tanha-FD-WOL.woff"),url("../fonts/tanha-font-v0.9/Farsi-Digits-Without-Latin/Tanha-FD-WOL.woff2");
+}
+*
+{
+    font-family: tanha,Tahoma;
+}
